@@ -1,0 +1,115 @@
+{
+   "data": [
+      {
+         "id": "474788955868007",
+         "from": {
+            "name": "Jam W Toast",
+            "id": "100000107213186"
+         },
+         "name": "Samsung SMART Camera Experience Photos",
+         "link": "http://www.facebook.com/album.php?fbid=474788955868007&id=100000107213186&aid=120775",
+         "cover_photo": "491634914183411",
+         "privacy": "friends",
+         "count": 6,
+         "type": "app",
+         "created_time": "2012-06-22T21:29:30+0000",
+         "updated_time": "2012-07-27T18:26:46+0000",
+         "can_upload": true
+      },
+      {
+         "id": "480776261935943",
+         "from": {
+            "name": "Jam W Toast",
+            "id": "100000107213186"
+         },
+         "name": "Wall Photos",
+         "link": "http://www.facebook.com/album.php?fbid=480776261935943&id=100000107213186&aid=121752",
+         "cover_photo": "480776268602609",
+         "privacy": "friends",
+         "count": 3,
+         "type": "wall",
+         "created_time": "2012-07-02T15:45:50+0000",
+         "updated_time": "2012-07-02T15:56:00+0000",
+         "can_upload": false
+      },
+      {
+         "id": "469580863055483",
+         "from": {
+            "name": "Jam W Toast",
+            "id": "100000107213186"
+         },
+         "name": "ClickFireDev1 Photos",
+         "link": "http://www.facebook.com/album.php?fbid=469580863055483&id=100000107213186&aid=119825",
+         "cover_photo": "469580869722149",
+         "privacy": "friends",
+         "count": 11,
+         "type": "app",
+         "created_time": "2012-06-13T22:00:53+0000",
+         "updated_time": "2012-06-21T19:37:33+0000",
+         "can_upload": true
+      },
+      {
+         "id": "472316562781913",
+         "from": {
+            "name": "Jam W Toast",
+            "id": "100000107213186"
+         },
+         "name": "Empty Album Photos",
+         "link": "http://www.facebook.com/album.php?fbid=472316562781913&id=100000107213186&aid=120328",
+         "privacy": "friends",
+         "type": "app",
+         "created_time": "2012-06-18T18:37:24+0000",
+         "updated_time": "2012-07-27T15:41:41+0000",
+         "can_upload": true
+      },
+      {
+         "id": "465939266752976",
+         "from": {
+            "name": "Jam W Toast",
+            "id": "100000107213186"
+         },
+         "name": "Arnold",
+         "description": "Pumping Iron",
+         "link": "http://www.facebook.com/album.php?fbid=465939266752976&id=100000107213186&aid=119186",
+         "cover_photo": "465939500086286",
+         "privacy": "friends",
+         "count": 2,
+         "type": "normal",
+         "created_time": "2012-06-07T19:18:06+0000",
+         "updated_time": "2012-06-07T19:18:50+0000",
+         "can_upload": true
+      },
+      {
+         "id": "301174609896110",
+         "from": {
+            "name": "Jam W Toast",
+            "id": "100000107213186"
+         },
+         "name": "Metaio Augmented Reality Photos",
+         "link": "http://www.facebook.com/album.php?fbid=301174609896110&id=100000107213186&aid=88744",
+         "cover_photo": "301174613229443",
+         "privacy": "friends",
+         "count": 1,
+         "type": "app",
+         "created_time": "2011-10-14T22:16:11+0000",
+         "updated_time": "2011-10-14T22:16:11+0000",
+         "can_upload": true
+      },
+      {
+         "id": "157984054215167",
+         "from": {
+            "name": "Jam W Toast",
+            "id": "100000107213186"
+         },
+         "name": "Profile Pictures",
+         "link": "http://www.facebook.com/album.php?fbid=157984054215167&id=100000107213186&aid=37460",
+         "cover_photo": "297113453635559",
+         "privacy": "everyone",
+         "count": 2,
+         "type": "profile",
+         "created_time": "2010-09-05T12:41:11+0000",
+         "updated_time": "2012-06-11T15:23:33+0000",
+         "can_upload": false
+      }
+   ]
+}

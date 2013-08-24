@@ -1,0 +1,12 @@
+@CHARSET "UTF-8";
+#disclaimer{
+
+}
+#disclaimer_container{
+	position: relative;
+}
+#disclaimer_container p{
+	font-family: sans-serif;
+	text-align: center;
+	
+}

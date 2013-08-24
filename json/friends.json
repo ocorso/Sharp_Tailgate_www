@@ -1,0 +1,63 @@
+{
+   "data": [
+      {
+         "name": "Ryan Mckone",
+         "id": "1005573017"
+      },
+      {
+         "name": "Owen Corso",
+         "id": "1110939581"
+      },
+      {
+         "name": "Gorge Kandle",
+         "id": "1431158464"
+      },
+      {
+         "name": "Stride Gum",
+         "id": "1502772678"
+      },
+      {
+         "name": "Schwarzenegger' Qa",
+         "id": "100000494476369"
+      },
+      {
+         "name": "Click Threetimes",
+         "id": "100000668092783"
+      },
+      {
+         "name": "Jwt Qa",
+         "id": "100001408527382"
+      },
+      {
+         "name": "Jwt Qa",
+         "id": "100001431567429"
+      },
+      {
+         "name": "QaAol Member",
+         "id": "100001436631144"
+      },
+      {
+         "name": "QAhotmail Tester",
+         "id": "100001445991666"
+      },
+      {
+         "name": "Lawrence Ed",
+         "id": "100001450176006"
+      },
+      {
+         "name": "Kat Bennett",
+         "id": "100001482849001"
+      },
+      {
+         "name": "Rudi Tester",
+         "id": "100001565030962"
+      },
+      {
+         "name": "Testa Sampler",
+         "id": "100001598599774"
+      }
+   ],
+   "paging": {
+      "next": "https://graph.facebook.com/100000107213186/friends?access_token=AAAE6DuP7CPwBABixdqafnUhhT5uZAqvmxEif4ZAOcDHjVZBjweYADTICt1QM574aeVftBQZApisoIW3rVZAu5hVZBuKoTQZAZBZBEclIRKWG5cdZCkDZBX7nrWS&limit=5000&offset=5000&__after_id=100001598599774"
+   }
+}

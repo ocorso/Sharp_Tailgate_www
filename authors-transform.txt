@@ -1,0 +1,4 @@
+jtordsen = Jason Tordsen <jtordsen@click3.com>
+milik = Mili Kuo <mili@click3x.com>
+ocorso = Owen Corso <owen@ored.net>
+soh = Sean Oh <sean@click3x.com>
